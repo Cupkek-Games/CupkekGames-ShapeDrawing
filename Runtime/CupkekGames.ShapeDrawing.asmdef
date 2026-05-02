@@ -1,0 +1,18 @@
+{
+    "name": "CupkekGames.ShapeDrawing",
+    "rootNamespace": "CupkekGames.ShapeDrawing",
+    "references": [
+        "GUID:627a6a50a96ba294eb51be4e4019a893",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:80ecb87cae9c44d19824e70ea7229748"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
