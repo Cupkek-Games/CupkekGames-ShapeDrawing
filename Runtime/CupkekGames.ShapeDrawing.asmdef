@@ -12,15 +12,7 @@
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": true,
-    "defineConstraints": [
-        "UNITASK_INSTALLED"
-    ],
-    "versionDefines": [
-        {
-            "name": "UniTask",
-            "expression": "",
-            "define": "UNITASK_INSTALLED"
-        }
-    ],
+    "defineConstraints": [],
+    "versionDefines": [],
     "noEngineReferences": false
 }
